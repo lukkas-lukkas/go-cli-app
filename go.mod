@@ -1,4 +1,4 @@
-module github.com/search-info-site
+module github.com/go-cli-app
 
 go 1.20
 
